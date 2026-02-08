@@ -4,9 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analytics Engineer
 -----------------------
 
-I research scalable data systems and AI-enabled analytics, designing architectures that transform raw data into strategic intelligence. My work integrates
-
-end-to-end pipelines, statistical modeling, and large language models to create intelligent data products that automate insights, accelerate decisions, and drive measurable business impact across organizations.
+I research scalable data systems and AI-enabled analytics, designing architectures that transform raw data into strategic intelligence. My work integrates end-to-end pipelines, statistical modeling, and large language models to create intelligent data products that automate insights, accelerate decisions, and drive measurable business impact across organizations.
 
 * 🌍  I'm based in United States
 * 🖥️  See my portfolio at [LinkedIN](http://https://www.linkedin.com/in/juliet-n/)
